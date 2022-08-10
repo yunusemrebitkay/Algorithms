@@ -19,10 +19,10 @@ function calculateAllOp($num){
       }
   }
 
-  return "Between 1 and 15 values you enter
+  return "Between 1 and $num values you enter
   <br> - Sum of squares of all even numbers: $squareEven
   <br> - Sum of odd numbers $totalOdd:
-  <br> - And product: $multOdd"; 
+  <br> - And multiply: $multOdd"; 
 }
 
 ?>
