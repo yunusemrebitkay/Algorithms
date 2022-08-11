@@ -27,7 +27,7 @@
 #### 25 - Create the algorithm that returns the sum of all elements in the list, where each element is multiplied by its index.
 #### 26 - Create the algorithm that creates a simple calculator.
 #### 27 - Create the algorithm that finds the HCF and LCM of two numbers.
-#### 28 - Create the algorithm that calculates the Fibonacci number in a given range.
+#### 28 - Create the algorithm that calculates the Fibonacci number.
 #### 29 - Create the algorithm that calculates the number of palindromes.
 #### 30 - Create the algorithm that calculates the Armstrong number.
 
@@ -61,7 +61,7 @@
 #### 25 - Her elemanın kendi indeksi ile çarpıldığı listede tüm elemanların toplamını döndüren algoritmayı oluşturun.
 #### 26 - Basit bir hesap makinesi oluşturan algoritmayı oluşturun.
 #### 27 - İki sayının HCF'sini ve LCM'sini bulan algoritmayı oluşturun.
-#### 28 - Belirli aralıktaki fibonacci  sayısını hesaplayan algoritmayı oluşturun.
+#### 28 - Fibonacci sayısını hesaplayan  algoritmayı oluşturun.
 #### 29 - Palindrom sayısını hesaplayan  algoritmayı oluşturun.
 #### 30 - Armstrong sayısını hesaplayan algoritmayı oluşturun.
 
